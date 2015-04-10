@@ -1,6 +1,7 @@
 #Gulp Workflow
 
-[![Dependency Status](React, React Router, Bootstrap, React-Bootstrap, React-Intl)
+[![Dependency Status]
+  #React, React Router, Bootstrap, React-Bootstrap, React-Intl
 
 Client side rendered React workflow. 
 
