@@ -19,4 +19,4 @@ npm run devWatch
 
 # License
 
-[LICENSE file]: https://github.com/LynxDelli/gulp-workflow/blob/master/LICENSE
+[LICENSE file]: https://github.com/LynxDelli/gulp-workflow/blob/master/LICENSE.md
