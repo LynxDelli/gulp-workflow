@@ -1,0 +1,44 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "es3": false,
+  "forin": false,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": false,
+  "newcap": true,
+  "noarg": true,
+  "noempty": false,
+  "nonbsp": false,
+  "nonew": true,
+  "plusplus": false,
+  // quotmark": "single",
+  // undef": true,
+  // unused": true,
+  "strict": false,
+  "maxparams": 12,
+  "maxdepth": 4,
+  "maxlen": 148,
+  "loopfunc": true,
+  "maxerr": 100,
+  "multistr": true,
+  "notypeof": true,
+  "shadow": true,
+  "sub": true,
+  "supernew": false,
+  // these are the global variables that jsHint needs to ignore
+  "globals": {
+    "jQuery": true,
+    "console": true,
+    "module": true,
+    /* Project Globals */
+
+    /* Gulp.js */
+    "require": true,
+    /* React */
+    "React": true
+  }
+}

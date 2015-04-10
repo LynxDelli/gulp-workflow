@@ -1,0 +1,20 @@
+{
+  locales : ['en-US'],
+  messages: {
+    template: {
+      links: {
+        logOut: "logout",
+        signIn: "sign in"
+      }
+    },
+    login: {
+      title: 'Welcome. Please Log In To Your Account Below',
+      btn: 'LOGIN',
+      lostPassword: 'Forgot Password?',
+      signUp: 'Sign Up'
+    },
+    error: {
+      'allRequired': 'All fields are required'
+    }
+  }
+}

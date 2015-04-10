@@ -1,0 +1,5 @@
+.idea/
+build/
+bower/
+node_modules/
+./npm-debug.log
